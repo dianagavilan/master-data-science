@@ -1,0 +1,3 @@
+ #!/bin/sh
+csvlook -d '^' optd_aircraft.csv 
+csvstat -d '^' optd_aircraft.csv
